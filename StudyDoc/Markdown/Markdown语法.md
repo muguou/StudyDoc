@@ -147,10 +147,10 @@ ________
 \[谷歌\]\[1\]      
 \[1\]\:www.google.com\1
 
-效果 [谷歌][1]      
+效果 [谷歌][谷歌]      
 
 
- [1]:wwww.google.com     
+ [谷歌]:wwww.google.com     
 
 
 

@@ -150,7 +150,7 @@ ________
 效果 [谷歌][谷歌1]      
 
 
- [谷歌1]:wwww.google.com     
+ [谷歌1]:www.google.com     
 
 
 

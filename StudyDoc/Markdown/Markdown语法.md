@@ -139,9 +139,9 @@ ________
 ## 8衔接  
 
 > 内置式
-\[百度\]\(www.baidu.com)
+\[百度\]\(https://www.baidu.com/\)
 
-效果 [百度](www.baidu.com)     
+效果 [百度](https://www.baidu.com/)     
 
 > 外置式
 \[谷歌\]\[1\]      
@@ -150,7 +150,7 @@ ________
 效果 [谷歌][谷歌1]      
 
 
- [谷歌1]:www.google.com     
+ [谷歌1]:https://www.google.com     
 
 
 

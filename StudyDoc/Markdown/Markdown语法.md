@@ -139,7 +139,7 @@ ________
 ## 8衔接  
 
 > 内置式
-\[百度\]\(https://www.baidu.com/\)
+\[百度\]\(https://www.baidu.com/)
 
 效果 [百度](https://www.baidu.com/)     
 

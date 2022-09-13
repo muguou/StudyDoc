@@ -77,7 +77,7 @@ Markdown语法主要分为如下几大部分：
 ## 4代码区块，4个空格或者一个制表符Tab
 
 void main()    
-{    
+{    Cancel changes
     printf("Hello, Markdown.");    
 }    
 
@@ -147,10 +147,10 @@ ________
 \[谷歌\]\[1\]      
 \[1\]\:www.google.com\1
 
-效果 [谷歌][1]      
+效果 [谷歌][谷歌1]      
 
 
- [1]:wwww.google.com     
+ [谷歌1]:wwww.google.com     
 
 
 

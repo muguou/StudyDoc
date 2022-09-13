@@ -148,7 +148,11 @@ ________
 \[1\]\:www.google.com\1
 
 效果 [谷歌][1]      
-[1]:wwww.google.com
+
+
+ [1]:wwww.google.com     
+
+
 
 
 

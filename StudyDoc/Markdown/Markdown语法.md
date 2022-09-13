@@ -145,7 +145,7 @@ ________
 
 > 外置式
 \[谷歌\]\[1\]      
-\[1\]\:www.google.com
+\[1\]\:www.google.com\1
 
 效果 [谷歌][1]      
 [1]:wwww.google.com

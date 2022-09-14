@@ -77,7 +77,7 @@ Markdown语法主要分为如下几大部分：
 ## 4代码区块，4个空格或者一个制表符Tab
 
 void main()    
-{    
+{    Cancel changes
     printf("Hello, Markdown.");    
 }    
 
@@ -139,18 +139,18 @@ ________
 ## 8衔接  
 
 > 内置式
-\[百度\]\(www.baidu.com)
+\[百度\]\(https://www.baidu.com/)
 
-效果 [百度](www.baidu.com)     
+效果 [百度](https://www.baidu.com/)     
 
 > 外置式
 \[谷歌\]\[1\]      
 \[1\]\:www.google.com\1
 
-效果 [谷歌][谷歌]      
+效果 [谷歌][谷歌1]      
 
 
- [谷歌]:wwww.google.com     
+ [谷歌1]:https://www.google.com     
 
 
 
